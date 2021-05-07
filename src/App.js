@@ -25,6 +25,7 @@ function App() {
 
   return (
     <div className="App">
+    <title>StockPe | Home</title>
      <section>
       <header>
         <div className="logo">
